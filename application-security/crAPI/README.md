@@ -4,15 +4,17 @@ An independent application security assessment of [crAPI](https://github.com/OWA
 
 ## Project Overview
 
-This project involved assessing the security of crAPI's API functionality, identifying vulnerabilities, evaluating their potential impact and documenting remediation recommendations.
+This project involved assessing the security of crAPI's API functionality, identifying vulnerabilities, evaluating their potential impact, and documenting remediation recommendations.
 
-The assessment demonstrates practical application security testing techniques, vulnerability analysis and risk assessment.
+The assessment demonstrates practical application security testing techniques, vulnerability analysis, and risk assessment.
 
 ## Methodology & Tools
 
 - Manual API security testing
 - Burp Suite Community Edition
 - HTTP request and response analysis
+- ffuf — Web application and endpoint fuzzing
+- SQLmap — SQL injection testing
 - OWASP API Security Top 10 concepts
 - CVSS 4.0 vulnerability scoring
 
@@ -25,11 +27,10 @@ The full assessment is available in two formats:
 
 ## Scope & Disclaimer
 
-Testing was conducted against crAPI, an intentionally vulnerable training application.
 
-This project is educational and portfolio-oriented. It does not represent an assessment of a production environment or an engagement with a commercial client.
+Testing was conducted against crAPI, an intentionally vulnerable API security testing environment. This independent assessment demonstrates practical application security testing, vulnerability analysis, and remediation reporting.
 
 ---
 
-**Author:** Siwa SM  
+**Author:** Siwakhile Motsa
 **Project:** Independent Application Security Assessment
