@@ -28,7 +28,7 @@ The full assessment is available in two formats:
 ## Scope & Disclaimer
 
 
-Testing was conducted against crAPI, an intentionally vulnerable API security testing environment. This independent assessment demonstrates practical application security testing, vulnerability analysis, and remediation reporting.
+Testing was conducted against crAPI, an API security testing environment. This independent assessment demonstrates practical application security testing, vulnerability analysis, and remediation reporting.
 
 ---
 
