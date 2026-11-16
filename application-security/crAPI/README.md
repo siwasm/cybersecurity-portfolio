@@ -1,6 +1,6 @@
 # crAPI — API Security Assessment
 
-An independent application security assessment of [crAPI](https://github.com/OWASP/crAPI), a deliberately vulnerable API security training environment.
+An independent application security assessment of [crAPI](https://github.com/OWASP/crAPI), an API security training environment.
 
 ## Project Overview
 
